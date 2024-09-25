@@ -15,7 +15,7 @@ export default function Home() {
         />
         <ol>
           <li>
-            Nova página e conteúdo! João Neves
+            Nova página e conteúdo! João Neves.. Experiência
           </li>
     
         </ol>
