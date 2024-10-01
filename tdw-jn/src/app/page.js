@@ -17,6 +17,9 @@ export default function Home() {
           <li>
             Hello World! Im João
           </li>
+          <li>
+            GANDA NANDO
+          </li>
     
         </ol>
 
